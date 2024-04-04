@@ -11,6 +11,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -32,6 +36,10 @@
 
 h1, h2, h3, h4 {
     margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
 }
 
 .general-sub {
@@ -204,4 +212,15 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/*---------------------------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
