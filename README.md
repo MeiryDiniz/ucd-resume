@@ -4,7 +4,7 @@
 
 [Click here to visit the page: **UCD Resume - Rosie**](https://meirydiniz.github.io/ucd-resume/)
 
-![Page Image](https://github.com/MeiryDiniz/whiskey-drop/blob/main/assets/images/)
+![Page Image](https://github.com/MeiryDiniz/ucd-resume/blob/main/assets/images/page.webp)
 
 ---
 
